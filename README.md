@@ -1,16 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:3a6073&height=200&section=header&text=Siamak%20Shirzad&fontSize=50&fontAlignY=35&desc=Senior%20Full%20Stack%20.NET%20Architect&descAlignY=55&descAlign=50" />
 </div>
-Here is your complete, polished GitHub Profile `README.md`. I have integrated your **About Me**, **Tech Stack**, and **Key Achievements** with the **Currently Working On (BulkyConnect AI)** section, and added the **Header Banner** and **GitHub Stats** to make it look exactly like the reference image you shared. 
-
-You can copy and paste this entire block directly into your `README.md` file (just remember to replace `YOUR_USERNAME` with your actual GitHub username in the stats section).
-
-***
-
-```markdown
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a7bd5,100:3a6073&height=200&section=header&text=Siamak%20Shirzad&fontSize=50&fontAlignY=35&desc=Senior%20Full%20Stack%20.NET%20Architect&descAlignY=55&descAlign=50" />
-</div>
 
 ### 🚀 About Me
 *   🏛️ **Senior Full Stack .NET Architect** with 20+ years of experience delivering mission-critical enterprise solutions for the Government of Canada, Ontario Ministries, and financial institutions (like BMO and TD).
