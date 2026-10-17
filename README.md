@@ -47,7 +47,7 @@
 `Azure App Services` `Azure Functions` `Azure DevOps` `Azure SQL` `Azure Ai Search` `Azure Vector (Embedding) Search` `Azure Blob Storage` `CI/CD Pipelines` `Git` `TFS` `IIS` 
 
 **Databases & Tools**  
-`MS SQL Server` `Oracle` `PL/SQL` `T-SQL` `SSIS/SSRS` `GitHub Copilot` `Playwright` `nUnit` `xUnit`
+`MS SQL Server` `Oracle` `Visual Studio` `T-SQL` `SSIS/SSRS` `GitHub Copilot` `Playwright` `nUnit` `xUnit`
 
 **Accessibility & Standards**  
 `WCAG 2.0` `AODA` `GC Design System` `OAuth 2.0` `JWT` `SAML 2.0`
