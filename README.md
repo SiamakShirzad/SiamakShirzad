@@ -1,9 +1,8 @@
 ## Hi there 👋
-
+### 🚀 Tech Stack
 <!--
 **SiamakShirzad/SiamakShirzad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 🚀 Tech Stack
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
