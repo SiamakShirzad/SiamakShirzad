@@ -44,7 +44,7 @@
 `.NET Core 8` `ASP.NET MVC` `Blazor` `Web API` `Entity Framework` `ReactJS` `AngularJS` `WCF`
 
 **Cloud & DevOps**  
-`Azure App Services` `Azure Functions` `Azure DevOps` `CI/CD Pipelines` `Git` `TFS` `IIS` `Docker`
+`Azure App Services` `Azure Functions` `Azure DevOps` `Azure SQL` `Azure Ai Search` `Azure Vector (Embedding) Search` `Azure Blob Storage` `CI/CD Pipelines` `Git` `TFS` `IIS` 
 
 **Databases & Tools**  
 `MS SQL Server` `Oracle` `PL/SQL` `T-SQL` `SSIS/SSRS` `GitHub Copilot` `Playwright` `nUnit` `xUnit`
