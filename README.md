@@ -29,7 +29,7 @@
 *   🧪 **Development Data Seeding:** Enables repeatable AI-search and matching tests.
 
 **🛠️ Technology Stack:**
-`.NET 8` | `ASP.NET Core` | `Razor Pages & MVC` | `Entity Framework Core` | `ASP.NET Core Identity` | `Azure AI Search` | `Azure OpenAI (Embeddings)` | `Bootstrap & JavaScript` | `SQL Server`
+`.NET 8` | `ASP.NET Core` | `Razor Pages & MVC` | `Entity Framework Core` | `ASP.NET Core Identity` | `Azure AI Search` | `Azure Blob Storage `| `Azure OpenAI (Embeddings)` | `Bootstrap & JavaScript` | `SQL Server`
 
 > 💡 *This project is a personal initiative to explore practical applications of generative AI, semantic search, vector databases, and intelligent recruitment workflows.*
 
