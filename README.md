@@ -12,9 +12,9 @@
 
 ---
 
-### 🚧 Currently Working On
+### 🚧 Currently Working On (Personal Project)
 
-**BulkyConnect AI** – An AI-powered recruitment platform helping employers discover qualified candidates efficiently and enabling job seekers to find relevant opportunities.
+**Talent Match AI** – An AI-powered recruitment platform helping employers discover qualified candidates efficiently and enabling job seekers to find relevant opportunities.
 
 **✨ Key Capabilities Being Developed:**
 *   🎯 **AI-Powered Matching:** Intelligent job and candidate matching.
@@ -52,23 +52,14 @@
 **Accessibility & Standards**  
 `WCAG 2.0` `AODA` `GC Design System` `OAuth 2.0` `JWT` `SAML 2.0`
 
----
 
-### 📊 GitHub Stats
-*(Note: Replace `YOUR_USERNAME` below with your actual GitHub handle)*
-
-![Siamak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true)
-
----
 
 ### 🏆 Key Achievements
-*   🏛️ **Government Clearances:** Holder of active Government of Canada Security Clearance & Government of Ontario Enhanced Reliability Clearance.
 *   🚀 **Enterprise Modernization:** Successfully migrated massive legacy systems (e.g., Oracle Forms to .NET Core 8, .NET 2.0 to .NET 4.6.1) for critical ministries like ESDC, SOLGEN, and MOH.
 *   🤖 **AI Adoption Leader:** Championed GitHub Copilot adoption across development teams, establishing prompt design guidelines and review frameworks for secure AI-generated code.
 *   👨‍🏫 **Team Leadership:** Mentored junior developers and led offshore teams (TD Bank), driving Agile transformations and strict code review standards.
 *   ♿ **Accessibility Advocacy:** Engineered applications utilized by 400+ field offices, ensuring strict compliance with WCAG 2.0 and AODA standards.
+*   🏛️ **Government Clearances:** Holder of active Government of Canada Security Clearance & Government of Ontario Enhanced Reliability Clearance.
 
 ---
 
