@@ -12,9 +12,9 @@
 
 ---
 
-### 🚧 Currently Working On (Personal Project)
+### 🚧 Currently Working On 
 
-**Talent Match AI** – An AI-powered recruitment platform helping employers discover qualified candidates efficiently and enabling job seekers to find relevant opportunities.
+**Talent Match AI** (Personal Project) – An AI-powered recruitment platform helping employers discover qualified candidates efficiently and enabling job seekers to find relevant opportunities.
 
 **✨ Key Capabilities Being Developed:**
 *   🎯 **AI-Powered Matching:** Intelligent job and candidate matching.
